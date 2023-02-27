@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200;300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 944px;
+    margin: 0 auto;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    text-align: right;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29.38px;
+    padding-left: 70%;
+    padding-top: 20px;
+
+}
+
+a {
+    color: #000000
+}
+
+.font {
+    font-family: Heebo;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #21243D;
+    padding-bottom: 12px;
+
+}
+
+.font_sec {
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23.5px;
+    color: #21243D;
+    padding-bottom: 12px;
+}
+
+.button1 {
+    border: 2px solid transparent;
+    border-radius: 2px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 33px;
+    padding-right: 33px;
+    background-color: #FF6464;
+    color: white;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29.38px;
+    margin-top: 12px;
+}
+
+.sec_part {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12%;
+
+}
+
+.header {
+    background-color: #FFFFFF;
+    padding-bottom: 22px;
+    ;
+}
+
+.section2 {
+    padding-right: 48px;
+
+}
+
+.font1 {
+    color: #21243D;
+    font-weight: 400;
+    font-family: Heebo;
+    font-size: 22px;
+    margin-top: 22px;
+
+
+}
+
+.font2 {
+    color: #00A8CC;
+    font-weight: 400;
+    font-family: Heebo;
+    font-size: 16px;
+    margin-top: 22px;
+}
+
+.section3 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.main {
+    background-color: #EDF7FA;
+
+}
+
+.text1 {
+    border: 2px solid transparent;
+    border-radius: 2px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    margin-bottom: 23px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 33px;
+    padding-left: 33px;
+    width: 418px;
+    height: 295px;
+
+
+}
+
+.text2 {
+    border: 2px solid transparent;
+    border-radius: 2px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 33px;
+    padding-left: 33px;
+    margin-bottom: 23px;
+    width: 418px;
+    height: 295px;
+
+
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 12px;
+
+}
+
+button {
+    border: 2px solid transparent;
+    border-radius: 16px;
+    background-color: #142850;
+    padding: 3px 20px;
+    color: white;
+    font-weight: 900;
+    font-size: 18px;
+    font-family: Heebo;
+    margin-top: 12px;
+    margin-bottom: 12px;
+
+}
+
+.d_flex_items {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.d_flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 22px;
+    padding-top: 22px;
+
+
+
+}
+
+.all_icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 12%;
+}
+
+.main {
+    padding-bottom: 48px;
+}
+
+.words {
+    padding-left: 48px;
+    font-family: Heebo;
+
+}
+
+.dashboard {
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: Heebo;
+    font-weight: 400;
+    color: #8695A4;
+}
+
+.color {
+    color: #21243D;
+}
+
+.works {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 22px;
+    font-family: Heebo;
+    font-weight: 400;
+    color: #21243D;
+}
+
+.font_style {
+    font-size: 26px;
+    font-family: Heebo;
+    font-weight: 700;
+    color: #21243D;
+    padding-bottom: 14px;
+
+}
+
+.date {
+    font-size: 18px;
+    font-family: Heebo;
+    font-weight: 400;
+    color: #21243D;
+    padding-bottom: 14px;
+
+}
+
+.lorem {
+    font-size: 16px;
+    font-family: Heebo;
+    font-weight: 700;
+    color: #21243D;
+    padding-bottom: 14px;
+}
+
+.first {
+    padding-right: 22px;
+}
+
+.sec {
+    padding-right: 22px;
+}
+
+.third {
+    padding-right: 22px;
+}
+
+.fourth {
+
+    padding-right: 22px;
+
+}
+
+.font_use {
+    text-align: center;
+}
+
+p {
+    padding-top: 20px;
+    text-align: center;
+}
